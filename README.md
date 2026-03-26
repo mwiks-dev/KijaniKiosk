@@ -1,2 +1,2 @@
-#KijaniKiosk DevOps Journey
-DevOps improes delivery speed and reliability.
+# KijaniKiosk DevOps Journey
+DevOps improves delivery speed and reliability.
